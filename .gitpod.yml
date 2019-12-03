@@ -3,3 +3,7 @@ mage:
 
 vscode:
   extensions:
+    - xabikos.ReactSnippets@2.4.0:GEOj9lWHC2Tz/OXdJVopnw==
+    - dsznajder.es7-react-js-snippets@2.4.4:Kc9C56uOv5JC3HsILBW+og==
+    - avraammavridis.vsc-react-documentation@1.2.1:kjzWxjWVKELEQmlvN/MhdQ==
+    - planbcoding.vscode-react-refactor@1.0.5:PC+1Kp7fc7eX62Tn4Yen4Q==
