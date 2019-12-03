@@ -1,4 +1,4 @@
-mage:
+image:
   file: Dockerfile
 
 vscode:
